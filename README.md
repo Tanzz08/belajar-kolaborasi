@@ -6,4 +6,3 @@
 - ini adalah perubahan commit kelima
 - ini adalah perubahan commit keenam
 
-  **saya akan latihan code review**
